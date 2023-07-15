@@ -95,6 +95,7 @@ nav a:hover{
     font-size: 16px;
     cursor: pointer;
     padding: 15px 30px;
+    color: white;
 }
 .email-signup button a{
     text-decoration: none;
@@ -102,6 +103,7 @@ nav a:hover{
 }
 .email-signup button:hover{
     background-color:  #910909;
+    color: white;
 }
 /* -------------------features------------------- */
 .features{
